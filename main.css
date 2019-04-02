@@ -20,6 +20,26 @@ html, body, header, #intro {
     background-color: #24355c;
     -webkit-transform: translate3d(0, 0, 0);
   }
+  #titleh1 {
+    font-size: 1.6rem !important;
+    margin-top: 1.4em !important;
+    padding-top: 2em !important;
+  }
+  #titleh2 {
+    font-size: 1.6rem !important;
+  }
+  #titledesc {
+    font-size: 0.6rem !important;
+  }
+  #titledesc2 {
+    font-size: 0.6rem !important;
+  }
+  #titlespan {
+    font-size: 0.6rem !important;
+  }
+  #freestocks {
+    font-size: 0.6rem !important;
+  }
 }
 
 @media (min-width: 800px) and (max-width: 850px) {
